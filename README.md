@@ -1,8 +1,6 @@
 # Spelling Bee Bot
 
-Spelling Bee Bot is a small Python tool that records audio from a selected microphone, transcribes it with Whisper, and types the result automatically using keyboard input.
-
-It is designed for quick voice-to-text use with hotkeys.
+Spelling Bee Bot is a small Python tool that records audio from a selected microphone, transcribes it with Whisper, and types the result automatically using keyboard input. (this was intended for roblox spelling bee games)
 
 ## Features
 
